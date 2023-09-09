@@ -1,4 +1,4 @@
- class JavaApplication{
+ class Longestpalidrome{
 
 
 public static void main(String args[]){
